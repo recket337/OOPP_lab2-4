@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1559265599 source:d:\study\oopp\1\lab2\main.cpp
+	<iostream>
+	"Node.h"
+
+1559265341 source:d:\study\oopp\1\lab2\src\node.cpp
+	"Node.h"
+	<cstring>
+
+1559268434 d:\study\oopp\1\lab2\include\node.h
+	<iostream>
+	<conio.h>
+	<cstring>
+	<cstdlib>
+
